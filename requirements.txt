@@ -1,8 +1,8 @@
 google-genai
 pillow
 ipython
-torch==2.0.1
-torchvision==0.15.2
+torch==2.8.0
+torchvision==0.23.0
 insightface
 opencv-python
 onnxruntime
